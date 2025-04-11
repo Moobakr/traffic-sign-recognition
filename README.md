@@ -5,7 +5,7 @@ A low-cost, real-time traffic sign recognition system for Intelligent Transporta
 Overview
 This project captures live traffic sign images using an ESP32-CAM, classifies them using a TensorFlow Lite CNN model, and provides audio feedback via an MP3-TF-16P module — aiding both driver assistance and visually impaired users.
 
--  **Accuracy**: 97.06% on GTSRB test data  
+-  **Accuracy**: 94.00% on GTSRB test data  
 - **Audio Feedback**: Pre-recorded voice for recognized signs  
 - **Edge Deployment**: Optimized for memory-limited devices  
 
